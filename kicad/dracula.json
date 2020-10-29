@@ -175,22 +175,22 @@
     "rgb(0, 132, 0)"
   ],
   "schematic": {
-    "aux_items": "rgb(0, 0, 0)",
+    "aux_items": "rgb(248, 248, 242)",
     "background": "rgb(40, 41, 54)",
-    "brightened": "rgb(255, 0, 255)",
+    "brightened": "rgb(255, 184, 108)",
     "bus": "rgb(98, 214, 232)",
     "bus_junction": "rgb(98, 214, 232)",
     "component_body": "rgb(77, 79, 104)",
     "component_outline": "rgb(234, 81, 178)",
-    "cursor": "rgb(0, 0, 0)",
+    "cursor": "rgb(248, 248, 242)",
     "erc_error": "rgb(255, 0, 0)",
     "erc_warning": "rgb(255, 0, 0)",
     "fields": "rgb(161, 239, 228)",
-    "grid": "rgb(132, 132, 132)",
-    "grid_axes": "rgb(0, 0, 132)",
+    "grid": "rgb(68, 71, 90)",
+    "grid_axes": "rgb(139, 233, 253)",
     "hidden": "rgb(194, 194, 194)",
-    "junction": "rgb(0, 132, 0)",
-    "label_global": "rgb(234, 81, 178)",
+    "junction": "rgb(0, 247, 105)",
+    "label_global": "rgb(255, 121, 198)",
     "label_hier": "rgb(235, 255, 135)",
     "label_local": "rgb(235, 255, 135)",
     "net_name": "rgb(132, 132, 132)",
@@ -209,7 +209,7 @@
     "sheet_label": "rgb(180, 91, 207)",
     "sheet_name": "rgb(180, 91, 207)",
     "value": "rgb(161, 239, 228)",
-    "wire": "rgb(0, 132, 0)",
+    "wire": "rgb(0, 247, 105)",
     "worksheet": "rgb(180, 91, 207)"
   }
 }
