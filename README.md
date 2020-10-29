@@ -1,4 +1,4 @@
-# Dracula for [X](http://link-to-x.com)
+# Dracula for [Kicad](https://licad-pcb.org/)
 
 > A dark theme for [Kicad](https://kicad-pcb.org/).
 
@@ -9,7 +9,7 @@ WIP: This theme currently supports
 
 ## Install
 
-All instructions can be found at [draculatheme.com/kicad](https://draculatheme.com/kicad).
+All instructions can be found at [INSTALL.md](INSTALL.md).
 
 ## Team
 
