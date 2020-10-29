@@ -4,8 +4,11 @@
 
 ![Screenshot](./screenshot.png)
 
-WIP: This theme currently supports
+![Screenshot](./screenshot2.png)
+
+This theme currently supports
 * **eschema** schematic editor
+* **pcbnew** PCB designer 
 
 ## Install
 
