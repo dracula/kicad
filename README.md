@@ -1,4 +1,4 @@
-# Dracula for [Kicad](https://licad-pcb.org/)
+# Dracula for [Kicad](https://kicad-pcb.org/)
 
 > A dark theme for [Kicad](https://kicad-pcb.org/).
 
@@ -6,7 +6,7 @@
 
 ![Screenshot](./screenshot2.png)
 
-This theme currently supports
+This theme currently supports the 2020 version of
 * **eschema** schematic editor
 * **pcbnew** PCB designer 
 
