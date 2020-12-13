@@ -8,15 +8,15 @@
 
 This theme currently supports the 2020 version of
 * **eschema** schematic editor
-* **pcbnew** PCB designer 
+* **pcbnew** PCB designer
 
 ## Install
 
-All instructions can be found at [INSTALL.md](INSTALL.md).
+All instructions can be found at [draculatheme.com/kicad](https://draculatheme.com/kicad).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/kicad/graphs/contributors).
 
 | [![Matt Bagnara](https://avatars0.githubusercontent.com/u/11695670?s=460&u=25822dd2d7446bd31c46102cbc239815f49c9876&v=4)](https://github.com/bagnaram) |
 |---|
