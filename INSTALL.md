@@ -1,4 +1,4 @@
-### [Kicad](https://licad-pcb.org/)
+### [KiCad](https://kicad-pcb.org/)
 
 #### Install using Git
 
