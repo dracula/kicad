@@ -10,6 +10,9 @@ This theme currently supports the 2020 version of
 * **eschema** schematic editor
 * **pcbnew** PCB designer
 
+It also supports the older version of
+* **eschema** schematic editor
+
 ## Install
 
 All instructions can be found at [draculatheme.com/kicad](https://draculatheme.com/kicad).
