@@ -1,6 +1,6 @@
-# Dracula for [KiCad](https://kicad-pcb.org/)
+# Dracula for [KiCad](https://kicad.org/)
 
-> A dark theme for [KiCad](https://kicad-pcb.org/).
+> A dark theme for [KiCad](https://kicad.org/).
 
 ![Screenshot](./screenshot.png)
 
